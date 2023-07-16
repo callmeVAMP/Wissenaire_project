@@ -80,12 +80,12 @@ font-family: 'Poppins', sans-serif;
     font-size:22px;
   }
   .containers{
-    margin:0;
+    margin:12px;
     padding:0;
-    width:380px;
+    width:365px;
     }
   .slideshow-container {
-  min-width:370px;
+  min-width:350px;
     padding:8px;
 }
   .slideshow-container img{
