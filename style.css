@@ -359,14 +359,14 @@ body{
 #CONTACT{
     width: 100%;
     padding: 300px 0;
-    background-color: #ffffff;
+    /*background-color: #ffffff;*/
 }
 
 
 .cont{
     width: 85%;
     max-width: 600px;
-    /*background: #ffffff;*/
+    background: #ffffff;
     position: absolute;
     /*bottom: 50%;*/
     left: 50%;
